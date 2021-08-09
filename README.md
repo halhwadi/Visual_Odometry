@@ -1,4 +1,4 @@
-**Visual Dometry**
+**Visual Odometry**
 <br></br>
 
 **Abstract:**
